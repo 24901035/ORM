@@ -51,8 +51,7 @@ class carAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-09-20 090859.png>)
-
+![alt text](<Screenshot 2025-09-22 085715.png>)
 
 
 ## RESULT
